@@ -118,7 +118,7 @@ sns.boxplot(x='height',data=df4)
 
 DATASET FOR BHP_CSV
 
-![image](https://user-images.githubusercontent.com/119122478/226989063-14bdde0a-5135-4aa7-b9b8-93a4f616045b.png)
+
 
 DATASET HEAD(BHP)
 
@@ -156,10 +156,12 @@ DATASET SHAPE WITHOUT OUTLIERS(BHP)
 
 
 DATASET BOXPLOT WITHOUT OUTLIERS(BHP)
+
 ![image](https://user-images.githubusercontent.com/119122478/226990513-6ad72c55-5dc3-45f5-924c-70d60eb9617b.png)
 
 
 DATASET AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
+
 ![image](https://user-images.githubusercontent.com/119122478/226990568-381d8e66-282c-443f-8e79-ffa06aaffb30.png)
 
 
@@ -169,6 +171,7 @@ DATASET SHAPE AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
 
 
 DATASET BOXPLOT AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
+
 ![image](https://user-images.githubusercontent.com/119122478/226990778-6ad63f6c-cacb-45d0-ba4a-f76ec2bb11b6.png)
 
 
@@ -178,6 +181,7 @@ DATASET FOR WEIGHT_HEIGHT_CSV
 
 
 DATASET HEAD(WEIGHT_HEIGHT)
+
 ![image](https://user-images.githubusercontent.com/119122478/226991016-bf777891-16b8-468a-96bb-86223333b9b1.png)
 
 
