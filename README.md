@@ -41,7 +41,11 @@ Plot the datas using Box Plot.
 ### PROGRAM
 
 Developed by : NITHYAA SRI S S
+
 Registration Number : 21222230100
+
+
+```
 
 import pandas as ps
 import numpy as np
@@ -108,11 +112,13 @@ df4.shape
 
 sns.boxplot(x='height',data=df4)
 
-### OUTPUT
+```
+
+# OUTPUT
 
 DATASET FOR BHP_CSV
 
-![image](https://user-images.githubusercontent.com/119122478/226988895-064ab566-97dd-47b4-86b1-02e88d8a8fbd.png)
+![image](https://user-images.githubusercontent.com/119122478/226989063-14bdde0a-5135-4aa7-b9b8-93a4f616045b.png)
 
 DATASET HEAD(BHP)
 
