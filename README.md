@@ -118,6 +118,7 @@ sns.boxplot(x='height',data=df4)
 
 DATASET FOR BHP_CSV
 
+![image](https://user-images.githubusercontent.com/119122478/226992969-dd4c7d3c-3f20-476f-ab91-887745e76786.png)
 
 
 DATASET HEAD(BHP)
@@ -187,36 +188,45 @@ DATASET HEAD(WEIGHT_HEIGHT)
 
 DATASET INFO(WEIGHT_HEIGHT)
 
+![image](https://user-images.githubusercontent.com/119122478/226993933-8d0dec31-b95f-4d7e-aac2-5a052fa2784d.png)
 
 
 DATASET DESCRIBE(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset18.png)
+![image](https://user-images.githubusercontent.com/119122478/226993844-8f659b84-f848-4c42-835c-5443f82d005b.png)
+
 
 DATASET NULL VALUES(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset19.png)
+![image](https://user-images.githubusercontent.com/119122478/226993770-b57d54e6-f2f2-476f-a3b8-40a7f42655f2.png)
+
+
 
 DATASET BOXPLOT WITH OUTLIERS(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset%2020.png)
+![image](https://user-images.githubusercontent.com/119122478/226993679-355c7189-927b-489d-b355-b109fc0b5dc8.png)
+
 
 DATASET AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset%2021.png)
+![image](https://user-images.githubusercontent.com/119122478/226993613-7cf4ed81-3b5d-42ef-b1a6-7f52e4e2b19f.png)
 
-![OUTPUT](dataset%2022.png)
+
+![image](https://user-images.githubusercontent.com/119122478/226993539-b4990739-8b6c-428e-9ff2-5f40d929a9d4.png)
+
+
 
 DATASET SHAPE(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset%2023.png)
+![image](https://user-images.githubusercontent.com/119122478/226993468-ed5d8026-670e-4109-8976-8864b0317332.png)
+
 
 DATASET BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset24.png)
+![image](https://user-images.githubusercontent.com/119122478/226993352-ae7324fb-8eaf-4287-9782-79a6bc3ea71b.png)
 
 
-### RESULT
+# RESULT
 
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
 
