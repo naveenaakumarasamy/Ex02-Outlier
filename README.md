@@ -183,7 +183,7 @@ DATASET FOR WEIGHT_HEIGHT_CSV
 
 DATASET HEAD(WEIGHT_HEIGHT)
 
-![image](https://user-images.githubusercontent.com/119122478/226991016-bf777891-16b8-468a-96bb-86223333b9b1.png)
+![image](https://user-images.githubusercontent.com/119122478/226994830-a5ff0598-74c8-4221-a9f5-ee1bb8e11c55.png)
 
 
 DATASET INFO(WEIGHT_HEIGHT)
