@@ -109,71 +109,75 @@ df4.shape
 sns.boxplot(x='height',data=df4)
 
 ### OUTPUT
+
 DATASET FOR BHP_CSV
 
-![OUTPUT](dataset.png)
+![image](https://user-images.githubusercontent.com/119122478/226988895-064ab566-97dd-47b4-86b1-02e88d8a8fbd.png)
 
 DATASET HEAD(BHP)
 
-![OUTPUT](dataset%202.png)
+![image](https://user-images.githubusercontent.com/119122478/226989063-14bdde0a-5135-4aa7-b9b8-93a4f616045b.png)
 
 DATASET DESCRIBE(BHP)
 
-![OUTPUT](dataset%203.png)
+![image](https://user-images.githubusercontent.com/119122478/226989266-64ac4d6a-f569-4275-a1b8-ef4e65c01dc4.png)
 
 DATASET INFO(BHP)
 
-![OUTPUT](dataset%204.png)
+![image](https://user-images.githubusercontent.com/119122478/226989461-4f5c96bb-7b40-46ad-8d1e-8435a2de7112.png)
 
 DATASET NULL VALUES(BHP)
 
-![OUTPUT](dataset%205.png)
- 
+![image](https://user-images.githubusercontent.com/119122478/226989690-7839803a-776f-4b3f-9a55-071529591f93.png)
+
 DATASET SHAPE WITH OUTLIERS(BHP)
 
-![OUPUT](dataset%206.png)
-
+![image](https://user-images.githubusercontent.com/119122478/226989802-5cbdd8a5-0677-4ea3-baeb-a1cc491f4145.png)
 
 DATASET BOXPLOT WITH OUTLIERS(BHP)
 
-![OUTPUT](dataset%207.png)
+![image](https://user-images.githubusercontent.com/119122478/226989950-e0a6220e-f291-40f6-bbb2-49e69d89ed96.png)
 
 DATASET WITHOUT OUTLIERS(BHP)
 
-![OUTPUT](dataset%208.png)
-![OUTPUT](dataset%209.png)
+![image](https://user-images.githubusercontent.com/119122478/226990067-031960e2-0653-4972-aa8d-e6d2f5f48815.png)
+
+![image](https://user-images.githubusercontent.com/119122478/226990187-d0b3c45a-7c65-472b-a376-8e2da79d98b3.png)
 
 DATASET SHAPE WITHOUT OUTLIERS(BHP)
 
-![OUTPUT](dataset%2010.png)
+![image](https://user-images.githubusercontent.com/119122478/226990398-72ce7796-0182-4f15-b3e0-07585f4514f6.png)
+
 
 DATASET BOXPLOT WITHOUT OUTLIERS(BHP)
+![image](https://user-images.githubusercontent.com/119122478/226990513-6ad72c55-5dc3-45f5-924c-70d60eb9617b.png)
 
-![OUPUT](dataset%2011.png)
 
 DATASET AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
+![image](https://user-images.githubusercontent.com/119122478/226990568-381d8e66-282c-443f-8e79-ffa06aaffb30.png)
 
-![OUPUT](dataset%2012.png)
 
 DATASET SHAPE AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
  
-![OUTPUT](dataset%2013.png)
+![image](https://user-images.githubusercontent.com/119122478/226990681-c08837e9-af17-42b6-a748-1836fe1a5698.png)
+
 
 DATASET BOXPLOT AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
+![image](https://user-images.githubusercontent.com/119122478/226990778-6ad63f6c-cacb-45d0-ba4a-f76ec2bb11b6.png)
 
-![OUTPUT](dataset%2014.png)
 
 DATASET FOR WEIGHT_HEIGHT_CSV
 
-![OUTPUT](dataset%2015.png)
+![image](https://user-images.githubusercontent.com/119122478/226990885-b4465adb-0319-435d-85d2-4e06b48aa65b.png)
+
 
 DATASET HEAD(WEIGHT_HEIGHT)
+![image](https://user-images.githubusercontent.com/119122478/226991016-bf777891-16b8-468a-96bb-86223333b9b1.png)
 
-![OUPUT](dataset16.png)
 
 DATASET INFO(WEIGHT_HEIGHT)
 
-![OUTPUT](dataset17.png)
+
 
 DATASET DESCRIBE(WEIGHT_HEIGHT)
 
