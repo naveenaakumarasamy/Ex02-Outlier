@@ -1,4 +1,5 @@
 ### Ex02-Outlier
+### AIM
 
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 
@@ -226,7 +227,7 @@ DATASET BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
 ![image](https://user-images.githubusercontent.com/119122478/226993352-ae7324fb-8eaf-4287-9782-79a6bc3ea71b.png)
 
 
-# RESULT
+###  RESULT
 
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
 
